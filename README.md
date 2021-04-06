@@ -9,7 +9,9 @@ Like him .I love doing FullStack Projects and Android Applications .
 - 🌱 I’m currently learning ReactJS and Data Science 
 - 👯 I’m looking to collaborate on Web Development Projects
 
-![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan2503001&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2503001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan2503001)](https://github.com/anuraghazra/github-readme-stats)
+[![Sohan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sohan2503001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
