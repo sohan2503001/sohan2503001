@@ -13,4 +13,4 @@ Like him .I love doing FullStack Projects and Android Applications .
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2503001&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sohan2503001&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sohan2503001&repo=github-readme-stats)](https://sohanjambhule-portfolio.netlify.app/)
