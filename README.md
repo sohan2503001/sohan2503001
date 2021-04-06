@@ -12,3 +12,4 @@ Like him .I love doing FullStack Projects and Android Applications .
 ![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan2503001&show_icons=true)
 
 
+[![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan2503001)](https://github.com/anuraghazra/github-readme-stats)
