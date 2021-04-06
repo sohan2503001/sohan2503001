@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning ReactJS, Data Science 
 - 👯 I’m looking to collaborate on Web Development Projects
 
-<!--
-**sohan2503001/sohan2503001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **sohan2503001/sohan2503001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> --!>
+ --!>
 
