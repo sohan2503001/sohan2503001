@@ -1,21 +1,14 @@
 ### Hi there 👋, I'm Sohan 
 
-- 🔭 I’m currently working on diffrent UI & UX design
-- 🌱 I’m currently learning ReactJS, Data Science 
-- 👯 I’m looking to collaborate on Web Development Projects
+Hi, I'm Sohan Jambhule , Passionate learner and so called Techy . Currently Pursuing Electrical Engineering at College of Engineering,Pune. 
+I love to Design and Develop application which would help people to Automate their work .I am big Fan of Elon Musk and Always like to think
+Like him .I love doing FullStack Projects and Android Applications .
 
-
-<!-- **sohan2503001/sohan2503001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on diffrent UI & UX design
-- 🌱 I’m currently learning ReactJS, Data Science 
+- 🌱 I’m currently learning ReactJS and Data Science 
 - 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help with DataSt
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- --!>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
