@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sohan 
 
-#### Hi, I'm Sohan Jambhule , Passionate learner and big dreamer. Currently Pursuing Electrical Engineering at College of Engineering,Pune. I love to Design and Develop application which would help people to Automate their work .I love doing FullStack Projects and Android Applications .
+#### Hi, I'm Sohan Jambhule , Passionate learner and budding developer. Currently Pursuing Electrical Engineering at College of Engineering,Pune. I love to Design and Develop application which would help people to Automate their work .I love doing Frontend Projects and Android Applications .
 
 
 - 🔭 I’m currently working on diffrent UI ,UX design & ReactJS projects
