@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning Data Structure and Algorithm  
 - 👯 I’m looking to collaborate on Web Development Projects
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sohan2503001&label=Profile%20views&color=129e00&style=plastic" alt="VivekUpadhyay" /> </p>
+
 ### Languages and Tools:
 <p>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" />
