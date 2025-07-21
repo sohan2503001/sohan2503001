@@ -1,11 +1,14 @@
 # Hi there 👋, I'm [Sohan](https://sohanjambhule-portfolio.netlify.app/)! 
 
-#### Hi, I'm Sohan Jambhule , I am a Electrical Engineering Student at College of Engineering,Pune. I love to Design and Develop application which will add new tech to the world. I love doing Frontend Projects and Android Applications. I have interest in startups and like to start my own business. I love listening music in free time .
+👋 Hi, I'm Sohan Jambhule
 
+🎓 M.Tech in Computer Technology @ IIT Delhi
 
-- 🔭 I’m currently working on diffrent UI ,UX design & ReactJS projects
-- 🌱 I’m currently learning Data Structure and Algorithm  
-- 👯 I’m looking to collaborate on Web Development Projects
+💡 Passionate about Problem Solving, DSA, and System Design
+
+🧠 Exploring AI/ML, OS Internals, and Low-Level Programming
+
+💻 I love building projects that blend performance with creativity
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sohan2503001&label=Profile%20views&color=129e00&style=plastic" alt="Sohan2503001" /> </p>
 
