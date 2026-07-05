@@ -34,8 +34,6 @@
 <br />
 
 
-[![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohan2503001)](https://github.com/sohan2503001/github-readme-stats)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan2503001&layout=compact&theme=tokyonight"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohan2503001&layout=compact&theme=tokyonight) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan2503001&layout=compact&theme=tokyonight"/> 
 
 
